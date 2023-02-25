@@ -6,6 +6,6 @@
 	![demo_image](demo.png)
 
 ## Setup
-- `docker build -t user-sercice:latest .`
+- `docker build -t user-service:latest .`
 - `docker run --name user-service -d -p 3000:3000 user-service:latest`
 - Visit [http://localhost:3000](http://localhost:3000)
